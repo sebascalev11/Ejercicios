@@ -102,5 +102,5 @@ if((numero1 + numero2 == 10) && (numero1 % numero2 == 0)){
 } else if ((numero1 + numero2 != 10) && (numero1 % numero2 == 0)){
     console.log("La suma de los numeros NO es 10, pero su resto es 0")
 } else{
-    console.log("La suma de los numeros NO es 10 y su resto NO es 0")
+    console.log("La suma de los numeros NO es 10 y su resto NO es 0");
 }
